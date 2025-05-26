@@ -2,7 +2,7 @@ These files contain the code to reproduce the analyse and figures from the publi
 
 “The genetic architecture of G-protein coupled receptor signaling”, by Taylor Mighell and Ben Lehner.
 
-Source data can be acquired at the associated zenodo (doi: xxxx/zenodo.xxxx). Simply put the data file and the jupyter notebooks into the same directory. Then run each cell of the jupyter notebooks to reproduce the analyses and figures found in the paper.
+Source data can be acquired at the associated zenodo (https://zenodo.org/records/15363336). Simply put the data file and the jupyter notebooks into the same directory. Then run each cell of the jupyter notebooks to reproduce the analyses and figures found in the paper.
 
 Code was tested with Mac OSX and with python version 3.9.13 and with the following dependencies 
 (dependency_version): matplotlib_3.9.4 
